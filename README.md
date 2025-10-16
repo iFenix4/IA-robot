@@ -38,7 +38,7 @@ Cada carpeta contendrá ejemplos, notebooks, código y explicaciones paso a paso
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/iFenix4/IA-robot.git
    cd tu-repo
 
 ## 📄 License
